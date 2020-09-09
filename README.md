@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Hüseyin Bera Bulut</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berabulut" alt="berabulut" /> </p>
 
@@ -8,5 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berabulut&layout=compact&hide=html" alt="berabulut" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berabulut&show_icons=true" alt="berabulut" /></p>
-
-
