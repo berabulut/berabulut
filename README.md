@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Bera Bulut</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berabulut" alt="berabulut" /> </p>
+
 
 - 🔭 I’m currently working on [SQL-Table-Creator](https://github.com/berabulut/SQL-Table-Creator)
 
