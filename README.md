@@ -5,9 +5,20 @@
 
 - 🔭 I’m currently working on [SQL-Table-Creator](https://github.com/berabulut/SQL-Table-Creator)
 
-<p align="left"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berabulut&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide=html" alt="berabulut" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berabulut&layout=compact&hide=html" alt="berabulut" /></p>
+![berabulut's github stats](https://github-readme-stats.vercel.app/api?username=berabulut&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berabulut&show_icons=true" alt="berabulut" /></p>
+### Tech Stack
+
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Python-3370A2?style=flat&logo=python&logoColor=FFFFFF"> 
+<img src="http://img.shields.io/badge/-Django-092C1E?style=flat&logo=django&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-.NET Core-652076?style=flat&logo=.net&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FFD133">
+<img src="http://img.shields.io/badge/-Docker-28B8EB?style=flat&logo=Docker&logoColor=FFFFFF">
+
