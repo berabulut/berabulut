@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [SQL-Table-Creator](https://github.com/berabulut/SQL-Table-Creator)
 
-![berabulut's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berabulut&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide=html)
+![berabulut's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berabulut&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&layout=compact&hide=html)
 
-![berabulut's github stats](https://github-readme-stats.vercel.app/api?username=berabulut&align=left&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![berabulut's github stats](https://github-readme-stats.vercel.app/api?username=berabulut&align=left&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)
 
 ### Tech Stack
 
