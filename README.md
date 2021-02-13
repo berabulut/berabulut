@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [SQL-Table-Creator](https://github.com/berabulut/SQL-Table-Creator)
+- 🔭 I’m currently working on [Project-Manager](https://github.com/berabulut/project-manager)
 
 ![berabulut's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berabulut&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&layout=compact&hide=html)
 
